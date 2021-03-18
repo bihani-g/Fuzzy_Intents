@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+All_scripts.ipynb
+data/
+data_summaries.ipynb
+logs/
+misc_notebooks/
+misc_scripts/
+results/
